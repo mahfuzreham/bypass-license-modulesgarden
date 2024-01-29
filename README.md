@@ -38,5 +38,6 @@ $BUILDSECRET = "**************";                      #
 #######################################################
 ```
 
+If you have any questions or concerns, feel free to open an issue at: https://github.com/jesussuarz/bypass-license-modulesgarden/issues (I will address any issue as soon as possible.). You can also raise the problem in Spanish.
 
-I hope this tool will be useful to you to get the most out of ModulesGarden modules in a responsible and ethical way! If you have any questions or comments, feel free to leave them here.
+I hope this tool will be useful to you to get the most out of ModulesGarden modules in a responsible and ethical way!
